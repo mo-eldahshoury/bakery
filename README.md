@@ -14,7 +14,7 @@ Optimized Assets: High-quality imagery handled efficiently for fast loading time
 
 Modern Navigation: A sleek, functional menu system for easy exploration.
 
- .
+
 
 🛠️ Tech Stack
  
@@ -26,3 +26,22 @@ Modern Navigation: A sleek, functional menu system for easy exploration.
  Typography Google Fonts (Playfair Display & Roboto)
  
  Deployment Vercel
+
+
+ 🚀 Why This Project?
+ 
+This project was built to demonstrate my ability to:
+
+Translate a brand's identity into a digital experience.
+
+Write clean, semantic HTML for better SEO and accessibility.
+
+Implement responsive design principles from scratch without heavy frameworks.
+
+Maintain high performance while using rich visual content.
+
+Clone the repository:
+
+```bash
+git clone https://github.com/mo-eldahshoury/Bakery.git
+cd Bakery
